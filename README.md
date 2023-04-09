@@ -1,4 +1,4 @@
-# Projeto 01 - React JS
+# React JS - Projeto 01 - Fundamentos
 
 ## Criando o projeto
 
