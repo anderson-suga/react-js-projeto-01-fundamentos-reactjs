@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.bracketPairColorization.enabled": true,
+    "files.maxMemoryForLargeFilesMB": 9000,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "json.format.enable": true
+}
